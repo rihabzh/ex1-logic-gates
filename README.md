@@ -73,7 +73,7 @@ Y= A⊕B
 7. assign f = ~(a & b);
 8. assign g = ~(a | b);
 9. assign h = ~(a ^ b);
-10.endmodule
+10. endmodule
 
 
  Developed by : RIHAB ZAKKAIR HUSSAIN  
